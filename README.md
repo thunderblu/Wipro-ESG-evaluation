@@ -2,8 +2,11 @@
 Internship project
 # 🌿 ESG-Score vs Financial Impact | Wipro Internship Project
 
-This project was completed during my internship at **Wipro**, as part of the ESG (Environmental, Social, Governance) analytics initiative. The goal was to explore the relationship between ESG scores and financial data of various companies to identify actionable insights and cost-optimization strategies.
-Here is the homepage of my dashboard
+-This project was completed during my internship at **Wipro**, as part of the ESG (Environmental, Social, Governance) analytics initiative. The goal was to explore the relationship between ESG scores and financial data of various companies to identify actionable insights and cost-optimization strategies.
+---
+
+- Here is the homepage of my Dashboard
+
 <img width="2047" height="1099" alt="image" src="https://github.com/user-attachments/assets/3207655c-dec8-4694-bedc-94985b172338" />
 
 This is one of the pages it redirects to once you click on a choice. 
