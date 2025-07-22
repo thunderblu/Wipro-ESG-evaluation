@@ -4,6 +4,8 @@ Internship project
 
 This project was completed during my internship at **Wipro**, as part of the ESG (Environmental, Social, Governance) analytics initiative. The goal was to explore the relationship between ESG scores and financial data of various companies to identify actionable insights and cost-optimization strategies.
 
+<img width="2047" height="1099" alt="image" src="https://github.com/user-attachments/assets/3207655c-dec8-4694-bedc-94985b172338" />
+
 ---
 
 ## 📌 Overview
@@ -36,6 +38,6 @@ I designed a project  — from **web scraping ESG and financial data** to **expl
 - Weak performance in the **governance pillar** showed significant correlation with financial instability.
 - ESG-aligned strategies have potential to reduce costs related to compliance and reputation management.
 
-<img width="2047" height="1099" alt="image" src="https://github.com/user-attachments/assets/3207655c-dec8-4694-bedc-94985b172338" />
+
 
 
